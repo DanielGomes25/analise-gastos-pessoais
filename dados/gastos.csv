@@ -1,64 +1,61 @@
-id,data,categoria,descricao,valor
-1,2025-01-05,Salario,Salario Mensal,1800
-2,2025-01-06,Alimentacao,Supermercado,-250
-3,2025-01-07,Transporte,Uber,-35
-4,2025-01-08,Lazer,Cinema,-40
-5,2025-01-10,Contas,Internet,-120
-6,2025-01-12,Alimentacao,Restaurante,-60
-7,2025-01-15,Saude,Farmacia,-45
-8,2025-01-20,Transporte,Onibus,-20
-9,2025-01-25,Lazer,Bar,-70
-10,2025-02-05,Salario,Salario Mensal,1800
-11,2025-02-06,Alimentacao,Supermercado,-300
-12,2025-02-07,Transporte,Uber,-40
-13,2025-02-10,Contas,Luz,-150
-14,2025-02-12,Saude,Consulta,-120
-15,2025-02-15,Lazer,Streaming,-30
-16,2025-02-18,Alimentacao,Padaria,-25
-17,2025-02-20,Transporte,Metro,-15
-18,2025-02-22,Lazer,Restaurante,-90
-19,2025-03-05,Salario,Salario Mensal,1800
-20,2025-03-06,Alimentacao,Supermercado,-280
-21,2025-03-07,Transporte,Uber,-32
-22,2025-03-08,Contas,Agua,-80
-23,2025-03-10,Saude,Farmacia,-60
-24,2025-03-12,Lazer,Cinema,-50
-25,2025-03-15,Alimentacao,Restaurante,-75
-26,2025-03-18,Transporte,Onibus,-20
-27,2025-03-20,Contas,Internet,-120
-28,2025-03-25,Lazer,Bar,-65
-29,2025-04-05,Salario,Salario Mensal,1800
-30,2025-04-06,Alimentacao,Supermercado,-310
-31,2025-04-07,Transporte,Uber,-45
-32,2025-04-08,Saude,Consulta,-150
-33,2025-04-10,Contas,Luz,-140
-34,2025-04-12,Lazer,Streaming,-30
-35,2025-04-15,Alimentacao,Restaurante,-80
-36,2025-04-18,Transporte,Metro,-18
-37,2025-04-20,Lazer,Cinema,-45
-38,2025-04-25,Outros,Compras,-120
-39,2025-05-05,Salario,Salario Mensal,1800
-40,2025-05-06,Alimentacao,Supermercado,-290
-41,2025-05-07,Transporte,Uber,-38
-42,2025-05-08,Contas,Agua,-90
-43,2025-05-10,Saude,Farmacia,-50
-44,2025-05-12,Lazer,Bar,-70
-45,2025-05-15,Alimentacao,Restaurante,-85
-46,2025-05-18,Transporte,Onibus,-22
-47,2025-05-20,Contas,Internet,-120
-48,2025-05-25,Outros,Presente,-100
-49,2025-06-05,Salario,Salario Mensal,1800
-50,2025-06-06,Alimentacao,Supermercado,-320
-51,2025-06-07,Transporte,Uber,-50
-52,2025-06-08,Saude,Consulta,-200
-53,2025-06-10,Contas,Luz,-160
-54,2025-06-12,Lazer,Cinema,-55
-55,2025-06-15,Alimentacao,Restaurante,-90
-56,2025-06-18,Transporte,Metro,-20
-57,2025-06-20,Lazer,Streaming,-30
-58,2025-06-25,Outros,Eletronico,-250
-59,2025-06-28,Alimentacao,Padaria,-30
-60,2025-06-30,Transporte,Onibus,-25
-13,2025-02-10,Contas,Luz,-150
-14,2025-02-12,Saude,Consulta,-120
-15,2025-02-15,Lazer,Streaming,-30
+id,data,id_categoria,descricao,valor
+1,2025-01-05,1,Salario Mensal,3000
+2,2025-01-06,2,Supermercado,-250
+3,2025-01-07,3,Uber,-35
+4,2025-01-08,4,Cinema,-40
+5,2025-01-10,5,Internet,-120
+6,2025-01-12,2,Restaurante,-60
+7,2025-01-15,6,Farmacia,-45
+8,2025-01-20,3,Onibus,-20
+9,2025-01-25,4,Bar,-70
+10,2025-02-05,1,Salario Mensal,1800
+11,2025-02-06,2,Supermercado,-300
+12,2025-02-07,3,Uber,-40
+13,2025-02-10,5,Luz,-150
+14,2025-02-12,6,Consulta,-120
+15,2025-02-15,4,Streaming,-30
+16,2025-02-18,2,Padaria,-25
+17,2025-02-20,3,Metro,-15
+18,2025-02-22,2,Restaurante,-90
+19,2025-03-05,1,Salario Mensal,3000
+20,2025-03-06,2,Supermercado,-280
+21,2025-03-07,3,Uber,-32
+22,2025-03-08,5,Agua,-80
+23,2025-03-10,6,Farmacia,-60
+24,2025-03-12,4,Cinema,-50
+25,2025-03-15,2,Restaurante,-75
+26,2025-03-18,3,Onibus,-20
+27,2025-03-20,5,Internet,-120
+28,2025-03-25,4,Bar,-65
+29,2025-04-05,1,Salario Mensal,4000
+30,2025-04-06,2,Supermercado,-310
+31,2025-04-07,3,Uber,-45
+32,2025-04-08,6,Consulta,-150
+33,2025-04-10,5,Luz,-140
+34,2025-04-12,4,Streaming,-30
+35,2025-04-15,2,Restaurante,-80
+36,2025-04-18,3,Metro,-18
+37,2025-04-20,4,Cinema,-45
+38,2025-04-25,7,Compras,-120
+39,2025-05-05,1,Salario Mensal,4000
+40,2025-05-06,2,Supermercado,-290
+41,2025-05-07,3,Uber,-38
+42,2025-05-08,5,Agua,-90
+43,2025-05-10,6,Farmacia,-50
+44,2025-05-12,4,Bar,-70
+45,2025-05-15,2,Restaurante,-85
+46,2025-05-18,3,Onibus,-22
+47,2025-05-20,5,Internet,-120
+48,2025-05-25,7,Presente,-100
+49,2025-06-05,1,Salario Mensal,4500
+50,2025-06-06,2,Supermercado,-320
+51,2025-06-07,3,Uber,-50
+52,2025-06-08,6,Consulta,-200
+53,2025-06-10,5,Luz,-160
+54,2025-06-12,4,Cinema,-55
+55,2025-06-15,2,Restaurante,-90
+56,2025-06-18,3,Metro,-20
+57,2025-06-20,4,Streaming,-30
+58,2025-06-25,7,Eletronico,-250
+59,2025-06-28,2,Padaria,-30
+60,2025-06-30,3,Onibus,-25

@@ -1,0 +1,8 @@
+.venv   
+
+gastos.db
+*.pyc
+__pycache__/
+notebook/.ipynb_checkpoints/
+.DS_Store
+
